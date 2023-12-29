@@ -15,7 +15,6 @@
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicollebazan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicollebazan" height="30" width="40" /></a>
-<a href="https://pinterest.com/nicollebazan" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg](https://juanma010901.github.io/Pinterest_Clone/)](https://seeklogo.com/images/P/pinterest-badge-logo-82C89A5E42-seeklogo.com.png)" alt="nicollebazan" height="30" width="40" /></a>
 <a href="https://www.behance.net/nicollebazan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nicollebazan" height="30" width="40" /></a>
 </p>
 
