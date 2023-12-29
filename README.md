@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Nicolle</h1>
 <h3 align="center">Soy estudiante de comunicación y publicidad</h3>
 
-- 🔭 Actualmente, estoy realizando prácticas en **Grupo MG Inmobiliario**
+- 💼 Actualmente, estoy realizando prácticas en **Grupo MG Inmobiliario**
 
 - 📝 Redactora de artículos en [https://www.grupomg.pe/novedades/](https://www.grupomg.pe/novedades/)
 
