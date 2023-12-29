@@ -14,8 +14,11 @@
 ---
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicollebazan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicollebazan" height="30" width="40" /></a>
-<a href="https://www.behance.net/nicollebazan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nicollebazan" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/nicollebazan">
+  <img align="left" alt="Nicolle's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/nicollebazan">
+  <img align="left" alt="Nicolle's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 <br/>
