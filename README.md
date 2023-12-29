@@ -14,11 +14,11 @@
 ---
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicollebazan">
-  <img align="left" alt="Nicolle's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
   <a href="https://t.me/nicollebazan">
   <img align="left" alt="Nicolle's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://linkedin.com/in/nicollebazan">
+  <img align="left" alt="Nicolle's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/nicollebazan">
   <img align="left" alt="Nicolle's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
