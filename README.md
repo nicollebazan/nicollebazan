@@ -23,7 +23,7 @@
 - MS Office
 
 </dl>
-      <h3 align="left">Conecta conmigo</h3>
+      <h2 align="left">Conecta conmigo</h2>
       <h2 align="left">
          <a href="nicollebazanm@gmail.com">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
