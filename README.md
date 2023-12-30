@@ -4,13 +4,8 @@
    <body>
       <h2 align="left">Sobre mí</h2>
       <p align="left">
-         Estudiante de Comunicación y Publicidad. Con sólidos conocimientos en marketing y dominio de software de diseño, así como del idioma inglés.
-        <br>
-      </p>
 
-### About me :eyes:
-
-- 💼 Soy practicante de marketing en **Grupo MG Inmobiliaria**  
+- 💼 Soy practicante de marketing 
 - 📝 Redacto artículos en **[Grupo MG](https://www.grupomg.pe/novedades/)** 
 
 
