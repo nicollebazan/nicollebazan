@@ -9,11 +9,6 @@
 - 🧠 Mi pasión por la comunicación me impulsa a aprender de manera constante.
 - 📝 Redacto artículos para el blog de **[Grupo MG Inmobiliaria.](https://www.grupomg.pe/novedades/)** 
 
-## Habilidades
-- Dominio de software de diseño.
-- Manejo de herramientas digitales y redes sociales.
-- Capacidad de análisis, comunicación, empatía y trabajo en equipo.
-
 ## Software
 - Adobe Photoshop
 - Adobe Illustrator
@@ -21,6 +16,11 @@
 - Figma
 - Notion
 - MS Office
+
+## Últimos artículos
+- **[¿Cómo decorar tu departamento en Navidad?](https://www.grupomg.pe/noticia/como-decorar-tu-departamento-en-navidad/)**
+- **[Invierte tu CTS en un departamento nuevo](https://www.grupomg.pe/noticia/invierte-tu-cts-en-un-departamento-nuevo-grupo-mg/)**
+- **[Tips para aprovechar el gimnasio de tu departamento](https://www.grupomg.pe/noticia/tips-para-aprovechar-el-gimnasio-de-tu-departamento/)**
 
 </dl>
       <h2 align="left">Conecta conmigo</h2>
