@@ -15,7 +15,6 @@
 - Adobe XD
 - Figma
 - Notion
-- MS Office
 
 ## Últimos artículos
 - **[¿Cómo decorar tu departamento en Navidad?](https://www.grupomg.pe/noticia/como-decorar-tu-departamento-en-navidad/)**
