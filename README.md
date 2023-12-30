@@ -10,7 +10,6 @@
 
 ### About me :eyes:
 
-- :dart: Full stack development | Machine learning | Deep learning | Computer vision | Matlab simulation
 - 💼 Soy practicante de marketing en **Grupo MG Inmobiliaria**  
 - 📝 Redacto artículos en **[Grupo MG](https://www.grupomg.pe/novedades/)** 
 
