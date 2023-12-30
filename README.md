@@ -4,7 +4,7 @@
    <body>
       <h2 align="left">Sobre mí</h2>
       <p align="left">
-         I'm a 2019 Computer Engineering Graduate from Pune University, currently working as Software Developer, at TIAA GBS Pune.<br> Worked on ML, NLP for my Final Year Project. Currently working on a Q&A website for the company's internal use [<a href="https://github.com/gauravghongde/devnet">Devnet<a>], inspired from stack-overflow. The idea of this POC is to create an open source alternative for stackoverflow, with a new age tech stack.
+         Estudiante de Comunicación y Publicidad. Con sólidos conocimientos en marketing y dominio de software de diseño, así como del idioma inglés.
         <br>
       </p>
 
