@@ -43,5 +43,5 @@
       </h2>
 
 &nbsp; &nbsp; *[Mi CV](https://drive.google.com/file/d/1i0rCJGIGzRTcf-Hq2k3_LZdGQvvdsu03/view)*
-&nbsp; &nbsp; |  &nbsp; &nbsp; *[Mis certificaciones](https://github.com/rkasale28/rkasale28/tree/master/Certificates)*
+&nbsp; &nbsp; |  &nbsp; &nbsp; *[Mis certificaciones](https://drive.google.com/drive/folders/1aMnzjSnCi3SpmVJARqwKHRlU55ScQ39V?usp=sharing)*
 <br />
