@@ -2,8 +2,8 @@
 
 <html>
    <body>
-      <h2 align="center">Sobre mí</h2>
-      <p align="center">
+      <h2 align="left">Sobre mí</h2>
+      <p align="left">
          I'm a 2019 Computer Engineering Graduate from Pune University, currently working as Software Developer, at TIAA GBS Pune.<br> Worked on ML, NLP for my Final Year Project. 
          <br>Currently working on a Q&A website for the company's internal use [<a href="https://github.com/gauravghongde/devnet">Devnet<a>], inspired from stack-overflow. The idea of this POC is to create an open source alternative for stackoverflow, with a new age tech stack.
         <br>
