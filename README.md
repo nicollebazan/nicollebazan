@@ -6,6 +6,7 @@
       <p align="left">
 
 - 🧠 Mi pasión por la comunicación me impulsa a aprender de manera constante.
+- 💌 Amor por los idiomas, el arte y el desarrollo de proyectos de responsabilidad social.
 - 📝 Redacto artículos para el blog de **[Grupo MG Inmobiliaria](https://www.grupomg.pe/novedades/)** y **[Mindira Agencia de Marketing y Publicidad.](https://agenciamindira.wixsite.com/mindira/blog)**
 
 ## Software
