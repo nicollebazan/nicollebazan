@@ -18,7 +18,6 @@
 
 ## Últimos artículos
 - **[¿Qué es la psicología del consumidor y por qué es tan importante?](https://agenciamindira.wixsite.com/mindira/post/qu%C3%A9-es-la-psicolog%C3%ADa-del-consumidor-y-por-qu%C3%A9-es-tan-importante)**
-- **[¿Cómo decorar tu departamento en Navidad?](https://www.grupomg.pe/noticia/como-decorar-tu-departamento-en-navidad/)**
 - **[Invierte tu CTS en un departamento nuevo](https://www.grupomg.pe/noticia/invierte-tu-cts-en-un-departamento-nuevo-grupo-mg/)**
 
 </dl>
