@@ -10,6 +10,9 @@
 - 📝 Redacto artículos para el blog de **[Grupo MG Inmobiliaria](https://www.grupomg.pe/novedades/)** y **[Mindira Agencia de Marketing y Publicidad.](https://agenciamindira.wixsite.com/mindira/blog)**
 
 ## Software
+
+
+
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe XD
