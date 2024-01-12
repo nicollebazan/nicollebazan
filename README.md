@@ -24,7 +24,7 @@
 
 ## Voluntariado
 - Voluntaria de comunicación en Huellas ONG *(Sep - Oct 2023)*
-- Voluntaria de tele-orientación del Programa Nutriendo esperanzas, protegiendo familias de la ONU y PNUD *(Marzo - Abril 2022)*
+- Voluntaria de tele-orientación del programa "Nutriendo esperanzas, protegiendo familias" de la ONU y PNUD *(Marzo - Abril 2022)*
 
 ## Últimos artículos
 - **[¿Qué es la psicología del consumidor y por qué es tan importante?](https://agenciamindira.wixsite.com/mindira/post/qu%C3%A9-es-la-psicolog%C3%ADa-del-consumidor-y-por-qu%C3%A9-es-tan-importante)**
