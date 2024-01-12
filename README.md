@@ -22,8 +22,8 @@
 <img src="https://github.com/nicollebazan/nicollebazan/assets/100792846/910742b1-6f6e-431d-b53f-c17e3a69da11https://github.com/nicollebazan/nicollebazan/assets/100792846/910742b1-6f6e-431d-b53f-c17e3a69da11" width="32" height="32"/>
 
 ## Voluntariado
-- Voluntaria de comunicación en Huellas ONG - 2023
-- Voluntaria de tele-orientación del Programa Nutriendo esperanzas, protegiendo familias de la ONU y PNUD - 2022
+- Voluntaria de comunicación en Huellas ONG - Sep - Oct 2023
+- Voluntaria de tele-orientación del Programa Nutriendo esperanzas, protegiendo familias de la ONU y PNUD - Marzo - Abril 2022
 
 ## Últimos artículos
 - **[¿Qué es la psicología del consumidor y por qué es tan importante?](https://agenciamindira.wixsite.com/mindira/post/qu%C3%A9-es-la-psicolog%C3%ADa-del-consumidor-y-por-qu%C3%A9-es-tan-importante)**
