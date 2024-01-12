@@ -9,6 +9,7 @@
 - 📝 Redacto artículos para el blog de **[Grupo MG Inmobiliaria](https://www.grupomg.pe/novedades/)** y **[Mindira Agencia de Marketing y Publicidad.](https://agenciamindira.wixsite.com/mindira/blog)**
 
 ## Certificaciones
+- **Copywriting para Marketing Digital** - *University of Cape Town (en curso)*
 - **Google Analytics 4** - *Google Digital Academy*
 - **Social Media Marketing** - *Instituto Europeo de Posgrado*
 - **Marketing Digital** - *Fundación Telefónica*
