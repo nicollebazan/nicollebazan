@@ -10,7 +10,7 @@
 
 ## Certificaciones
 - **Copywriting para Marketing Digital** - *University of Cape Town (en curso)*
-- **Google Analytics 4** - *Google Digital Academy Skillshop*
+- **Google Analytics 4** - *Google Digital Academy*
 - **Social Media Marketing** - *Instituto Europeo de Posgrado*
 - **Marketing Digital** - *Fundación Telefónica*
 
