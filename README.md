@@ -11,6 +11,7 @@
 ## Certificaciones
 - **Copywriting para Marketing Digital** - *University of Cape Town (en curso)*
 - **Social Media Marketing** - *Instituto Europeo de Posgrado*
+- **Marketing Digital Inmobiliario** - *EuroInnova*
 - **Marketing Digital** - *Fundación Telefónica*
 
 ## Software
