@@ -21,6 +21,10 @@
 <img src="https://github.com/nicollebazan/nicollebazan/assets/100792846/7b82c91d-8c43-44fd-b47c-cda6dd65a7f6" width="32" height="32"/>
 <img src="https://github.com/nicollebazan/nicollebazan/assets/100792846/910742b1-6f6e-431d-b53f-c17e3a69da11https://github.com/nicollebazan/nicollebazan/assets/100792846/910742b1-6f6e-431d-b53f-c17e3a69da11" width="32" height="32"/>
 
+## Voluntariado
+- Voluntaria de comunicación en Huellas ONG
+- Voluntaria de tele-orientación del Programa Nutriendo esperanzas, protegiendo familias de la ONU y PNUD
+
 ## Últimos artículos
 - **[¿Qué es la psicología del consumidor y por qué es tan importante?](https://agenciamindira.wixsite.com/mindira/post/qu%C3%A9-es-la-psicolog%C3%ADa-del-consumidor-y-por-qu%C3%A9-es-tan-importante)**
 - **[Invierte tu CTS en un departamento nuevo](https://www.grupomg.pe/noticia/invierte-tu-cts-en-un-departamento-nuevo-grupo-mg/)**
