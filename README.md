@@ -7,7 +7,7 @@
 - 🧠 Mi pasión por la comunicación me impulsa a aprender de manera constante.
 - 💌 Amor por los idiomas, el arte y el desarrollo de proyectos de responsabilidad social.
 - ⭐ Disfruto trabajar en medios digitales y estar al tanto de las últimas tendencias.
-- 📝 Redacto artículos para el blog de **[Grupo MG Inmobiliaria](https://www.grupomg.pe/novedades/)** y **[Mindira Agencia de Marketing y Publicidad.](https://agenciamindira.wixsite.com/mindira/blog)**
+- 📝 Redacto artículos para el blog de **[Grupo MG Inmobiliaria](https://www.grupomg.pe/novedades/)** 
 
 ## Certificaciones
 - **Copywriting para Marketing Digital** - *University of Cape Town (en curso)*
@@ -29,9 +29,8 @@
 - Voluntaria de comunicación en Huellas ONG *(Sep - Oct 2023)*
 - Voluntaria de tele-orientación del programa "Nutriendo esperanzas, protegiendo familias" de la ONU y PNUD *(Marzo - Abril 2022)*
 
-## Últimos artículos
-- **[¿Qué es la psicología del consumidor y por qué es tan importante?](https://agenciamindira.wixsite.com/mindira/post/qu%C3%A9-es-la-psicolog%C3%ADa-del-consumidor-y-por-qu%C3%A9-es-tan-importante)**
-- **[Invierte tu CTS en un departamento nuevo](https://www.grupomg.pe/noticia/invierte-tu-cts-en-un-departamento-nuevo-grupo-mg/)**
+## Último artículo 
+- **[Razones para comprar tu depa en verano](https://www.grupomg.pe/noticia/razones-para-comprar-tu-depa-en-verano/)**
 
 </dl>
       <h2 align="left">Conecta conmigo</h2>
