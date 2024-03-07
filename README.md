@@ -7,7 +7,7 @@
 - 🧠 Mi pasión por la comunicación me impulsa a aprender de manera constante.
 - 💌 Amor por los idiomas, el arte y el desarrollo de proyectos de responsabilidad social.
 - ⭐ Disfruto trabajar en medios digitales y estar al tanto de las últimas tendencias.
-- 📝 Redacto artículos para el blog de **[Grupo MG Inmobiliaria](https://www.grupomg.pe/novedades/)** 
+- 📝 Redacto artículos para el blog de **[Grupo MG Inmobiliario](https://www.grupomg.pe/novedades/)** 
 
 ## Certificaciones
 - **Marketing Digital** - *Universidad de Chicago (en curso)*
