@@ -14,6 +14,7 @@
 - **Google Analytics 4** - *Google Digital Academy*
 - **Social Media Marketing** - *Instituto Europeo de Posgrado*
 - **Marketing Digital** - *Fundación Telefónica*
+- **Participación en el segundo foro internacional "Nuevas Realidades, Nuevos Desafíos** - *Ministerio de Tecnologías de la Información y las Comunicaciones*
 
 ## Software
 <img src="https://github.com/nicollebazan/nicollebazan/assets/100792846/9988e21a-2ce6-47ac-955d-c1f350697fe5" width="32" height="32"/>
