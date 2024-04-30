@@ -12,7 +12,6 @@
 - **Marketing Digital** - *Universidad de Chicago (en curso)*
 - **Google Analytics 4** - *Google Digital Academy*
 - **Social Media Marketing** - *Instituto Europeo de Posgrado*
-- **Marketing Digital** - *Fundación Telefónica*
 - **Participación en el segundo foro internacional "Nuevas Realidades, Nuevos Desafíos** - *Ministerio de Tecnologías de la Información y las Comunicaciones*
 
 ## Software
