@@ -10,6 +10,7 @@
 
 ## Certificaciones
 - **Marketing Digital** - *Universidad de Chicago (en curso)*
+- **Creatividades de Google Ads** - *Google Digital Academy*
 - **Google Analytics 4** - *Google Digital Academy*
 - **Social Media Marketing** - *Instituto Europeo de Posgrado*
 - **Participación en el segundo foro internacional "Nuevas Realidades, Nuevos Desafíos** - *Ministerio de Tecnologías de la Información y las Comunicaciones*
