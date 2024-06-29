@@ -10,7 +10,7 @@
 
 ## Certificaciones
 - **Estrategia de Marketing Digital** - *Universidad de Hardvard (en curso)*
-- **Storytelling en Marketing Digital** - *Universidad de Chicago (en curso)*
+- **Storytelling en Marketing Digital** - *Universidad de Chicago*
 - **Creatividades de Google Ads** - *Google Digital Academy*
 - **Google Analytics 4** - *Google Digital Academy*
 - **Social Media Marketing** - *Instituto Europeo de Posgrado*
