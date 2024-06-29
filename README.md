@@ -9,7 +9,7 @@
 - ⭐ Disfruto trabajar en medios digitales y estar al tanto de las últimas tendencias.
 
 ## Certificaciones
-- **Digital Marketing Strategy** - *Universidad de Hardvard (en curso)*
+- **Estrategia de Marketing Digital** - *Universidad de Hardvard (en curso)*
 - **Storytelling en Marketing Digital** - *Universidad de Chicago (en curso)*
 - **Creatividades de Google Ads** - *Google Digital Academy*
 - **Google Analytics 4** - *Google Digital Academy*
