@@ -9,10 +9,12 @@
 - ⭐ Disfruto trabajar en medios digitales y estar al tanto de las últimas tendencias.
 
 ## Certificaciones
-- **Marketing Digital** - *Universidad de Chicago (en curso)*
+- **Digital Marketing Strategy** - *Universidad de Hardvard (en curso)*
+- **Storytelling en Marketing Digital** - *Universidad de Chicago (en curso)*
 - **Creatividades de Google Ads** - *Google Digital Academy*
 - **Google Analytics 4** - *Google Digital Academy*
 - **Social Media Marketing** - *Instituto Europeo de Posgrado*
+- **Marketing Digital Inmobiliario** - *Euroinnova International Online Education*
 - **Participación en el segundo foro internacional "Nuevas Realidades, Nuevos Desafíos** - *Ministerio de Tecnologías de la Información y las Comunicaciones*
 
 ## Software
