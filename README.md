@@ -6,6 +6,7 @@
 
 - 🧠 Mi pasión por la comunicación me impulsa a aprender de manera constante.
 - 💌 Amor por los idiomas, el arte y el desarrollo de proyectos de responsabilidad social.
+- 🎨 Propongo creatividad e innovación en cada proyecto, utilizando herramientas digitales avanzadas.
 - ⭐ Disfruto trabajar en medios digitales y estar al tanto de las últimas tendencias.
 
 ## Certificaciones
