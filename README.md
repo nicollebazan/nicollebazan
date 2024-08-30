@@ -10,7 +10,7 @@
 - ⭐ Disfruto trabajar en medios digitales y estar al tanto de las últimas tendencias.
 
 ## Certificaciones
-- **Storytelling en Marketing Digital** - *Universidad de Chicago*
+- **Storytelling en Marketing Digital** - *Santander Open Academy / Universidad de Chicago*
 - **Creatividades de Google Ads** - *Google Digital Academy*
 - **Google Analytics 4** - *Google Digital Academy*
 - **Social Media Marketing** - *Instituto Europeo de Posgrado*
