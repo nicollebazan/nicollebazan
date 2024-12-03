@@ -14,6 +14,7 @@
 - **Creatividades de Google Ads** - *Google Digital Academy*
 - **Google Analytics 4** - *Google Digital Academy*
 - **Social Media Marketing** - *Instituto Europeo de Posgrado*
+- **Inteligencia Artificial y el Comunicador 4.0** - *Asociación Nacional de Periodistas del Perú*
 - **Marketing Digital Inmobiliario** - *Euroinnova International Online Education*
 - **Participación en el segundo foro internacional "Nuevas Realidades, Nuevos Desafíos** - *Ministerio de Tecnologías de la Información y las Comunicaciones*
 
