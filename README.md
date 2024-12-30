@@ -31,7 +31,7 @@
 
 ## Voluntariado
 - Voluntaria de comunicación en Huellas ONG *(Sep - Dic 2023)*
-- Voluntaria de tele-orientación del programa "Nutriendo esperanzas, protegiendo familias" de la ONU y PNUD *(Marzo - Abril 2022)*
+- Voluntaria de tele-orientación en la ONU y PNUD del programa "Nutriendo esperanzas, protegiendo familias" *(Marzo - Abril 2022)*
 
 ## Idiomas
 - Inglés nivel avanzado
